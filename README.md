@@ -184,8 +184,6 @@ The following have been used on this project:
 
 ## Authors
 
-- [John Maluki](https://github.com/john-maluki)
+- [Suleiman OSman](https://github.com/suleosmann)
 
-## Copyright
 
-Released under the MIT License. See the [LICENSE](https://github.com/john-maluki/phase-3-wk3-code-challenge/blob/main/LICENSE) file.
